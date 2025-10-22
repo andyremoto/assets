@@ -4,8 +4,23 @@
   "type": "POLYGON",
   "decimals": 18,
   "description": "Token lastreado em ouro, governança via multisig (Safe).",
-  "website": "",
+  "website": "https://estruturartgolden.com",
   "explorer": "https://polygonscan.com/token/0xF5b5AefFFFbf838A1Da1f97d2Ab9dFb7330B924A",
   "status": "active",
-  "id": "0xF5b5AefFFFbf838A1Da1f97d2Ab9dFb7330B924A"
+  "id": "0xF5b5AefFFFbf838A1Da1f97d2Ab9dFb7330B924A",
+  "links": [
+    {
+      "name": "whitepaper",
+      "url": "https://estruturartgolden.com/documentacao/whitepaper"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/andyremoto/assets"
+    }
+  ],
+  "tags": [
+    "defi",
+    "gold-backed",
+    "polygon-ecosystem"
+  ]
 }
